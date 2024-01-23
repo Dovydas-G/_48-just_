@@ -11,7 +11,7 @@ Site published at: https://dovydas-g.github.io/_48-just_/
 
 Design: [Astronautas](https://dribbble.com/shots/5964475/attachments/5964475-404-Lost-in-Space)
 
-## 🛸 Project features/goals
+## 🚀 Project features/goals
 
 - Github pages
 - CSS units: vh
